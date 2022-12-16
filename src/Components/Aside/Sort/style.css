@@ -1,0 +1,14 @@
+label{
+    font-size: 1.3rem;
+    font-weight: 600;
+   
+}
+select{
+    width: 11rem;
+    height: 2.5rem;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 0.8rem;
+    background-color: rgb(223, 204, 180);
+}
